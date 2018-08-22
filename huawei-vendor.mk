@@ -712,6 +712,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/common/proprietary/lib64/libc_secshared.so:system/lib64/libc_secshared.so \
     vendor/huawei/common/proprietary/lib/libhwpwmanager_jni.so:system/lib/libhwpwmanager_jni.so \
     vendor/huawei/common/proprietary/lib64/libhwpwmanager_jni.so:system/lib64/libhwpwmanager_jni.so \
+    vendor/huawei/common/proprietary/lib64/libui_shim.so:system/lib64/libui_shim.so \
     vendor/huawei/common/proprietary/lib/sphal-compat/android.hardware.camera.common@1.0.so:system/lib/sphal-compat/android.hardware.camera.common@1.0.so \
     vendor/huawei/common/proprietary/lib/sphal-compat/android.hardware.camera.device@1.0.so:system/lib/sphal-compat/android.hardware.camera.device@1.0.so \
     vendor/huawei/common/proprietary/lib/sphal-compat/android.hardware.camera.device@3.2.so:system/lib/sphal-compat/android.hardware.camera.device@3.2.so \
